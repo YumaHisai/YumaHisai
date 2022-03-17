@@ -14,9 +14,10 @@
     <img height="350" src="https://i.imgur.com/OUXal4M.png">
   </a>
   ⠀⠀⠀
-  ⠀⠀⠀
-  <img height="140" src="https://i.imgur.com/Fpll68w.png">
-  ⠀⠀⠀
+  <a href="https://github.com/SpeedersCoders">⠀⠀⠀
+    <img height="140" src="https://i.imgur.com/Fpll68w.png">
+  </a>
+    ⠀⠀⠀
   <a href="https://github.com/ThreeWhi/">⠀⠀⠀
     <img height="350" src="https://i.imgur.com/ge0064W.png">
   </a>
