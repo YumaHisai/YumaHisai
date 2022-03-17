@@ -7,3 +7,17 @@
 <a href="https://github.com/YumaHisai/MacBansSystem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YumaHisai&repo=MacBansSystem&theme=tokyonight" />
 </a>
+<br></br>
+
+<div>
+  <a href="https://github.com/YumaHisai/">
+    <img height="350" src="https://i.imgur.com/OUXal4M.png">
+  </a>
+  ⠀⠀⠀
+  ⠀⠀⠀
+  <img height="140" src="https://i.imgur.com/Fpll68w.png">
+  ⠀⠀⠀
+  <a href="https://github.com/YumaHisai/">⠀⠀⠀
+    <img height="350" src="https://i.imgur.com/ge0064W.png">
+  </a>
+</div>
