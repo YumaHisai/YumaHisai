@@ -17,7 +17,7 @@
   ⠀⠀⠀
   <img height="140" src="https://i.imgur.com/Fpll68w.png">
   ⠀⠀⠀
-  <a href="https://github.com/YumaHisai/">⠀⠀⠀
+  <a href="https://github.com/ThreeWhi/">⠀⠀⠀
     <img height="350" src="https://i.imgur.com/ge0064W.png">
   </a>
 </div>
