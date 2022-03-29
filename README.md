@@ -25,7 +25,7 @@
     <img alt="React" src="https://img.shields.io/badge/react-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%23F7DF1E"/>
     <img alt="Lua" src="https://img.shields.io/badge/lua-%23009639.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
-<p align="center">═════════════════════════════════════════════════════════════════════════════════════</p>
+<p align="center">════════════════════════════════════════════════════════════════════════════════════</p>
 <p align="center">
     <a href="https://t.me/MyNameIsYuma">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
