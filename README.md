@@ -36,6 +36,9 @@
     <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJlLWslvFCmlKXqMbSdqRPLKDFqrZFjPHsPJfZwGDmvsDTgDrdWBgHZXStQsmCQFpfPLHgV">
         <img alt="Gmail" src="https://img.shields.io/badge/GMail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+    <a href="https://yumahisai.tumblr.com">
+        <img alt="Tumblr" src="https://img.shields.io/badge/tumblr-0078D4?style=for-the-badge&logo=tumblr&logoColor=white" />
+    </a>
 </p>
 
 <div>
