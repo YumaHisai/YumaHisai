@@ -31,6 +31,13 @@
     <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
 <p align="center">════════════════════════════════════════════════════════════════════════════════════</p>
+
+<div align="center">
+  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FyumaHisai">
+    <img height="350" src="https://i.imgur.com/KE97RjX.png">
+  </a>
+</div>
+
 <p align="center">
     <a href="https://t.me/MyNameIsYuma">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
