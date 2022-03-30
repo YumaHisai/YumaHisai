@@ -18,12 +18,6 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alt="C#" src="https://img.shields.io/badge/csharp-%231572B6.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
-    <img alt="Python" src="https://img.shields.io/badge/python-%2300f.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-<p align="center">
-    <img alt="React" src="https://img.shields.io/badge/react-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%23F7DF1E"/>
-    <img alt="Lua" src="https://img.shields.io/badge/lua-%23009639.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
 <p align="center">════════════════════════════════════════════════════════════════════════════════════</p>
 <p align="center">
