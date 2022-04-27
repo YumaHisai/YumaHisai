@@ -4,8 +4,8 @@
 <a href="https://github.com/YumaHisai/TroyClient-Official">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YumaHisai&repo=TroyClient-Official&theme=tokyonight" />
 </a>
-<a href="https://github.com/YumaHisai/MacBansSystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YumaHisai&repo=MacBansSystem&theme=tokyonight" />
+<a href="https://github.com/YumaHisai/SkyWarsPlus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YumaHisai&repo=SkyWarsPlus&theme=tokyonight" />
 </a>
 <br></br>
 <p align="center">
