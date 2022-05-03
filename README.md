@@ -1,5 +1,5 @@
 <p align="center">
-     <a href="https://yumahisai.cf"><img height="100em" src="https://count.getloli.com/get/@:なるみ?theme=rule34"/></a>
+     <a href="https://yumahisai.cf"><img height="100em" src="https://yumahisai.cf/other/yuma.svg"/></a>
 </p>
 
 [![YumaHisaiProfile](https://github-readme-stats.vercel.app/api?username=YumaHisai&theme=tokyonight)](https://github.com/YumaHisai/YumaHisai/) 
