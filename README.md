@@ -1,3 +1,7 @@
+<p align="center">
+     <a href="https://yumahisai.cf"><img height="100em" src="https://count.getloli.com/get/@:なるみ?theme=rule34"/></a>
+</p>
+
 [![YumaHisaiProfile](https://github-readme-stats.vercel.app/api?username=YumaHisai&theme=tokyonight)](https://github.com/YumaHisai/YumaHisai/) 
 [![YumaHisaiStats](https://github-readme-stats.vercel.app/api/top-langs/?username=YumaHisai&theme=tokyonight)](https://github.com/YumaHisai/YumaHisai/)
 
@@ -55,7 +59,15 @@
     </a>
 </p>
 
-<div>
+---
+
+<p align="center">
+     <a href="https://discord.gg/6H5TN4FUtY"><img src="https://discordapp.com/api/guilds/961603027230404658/widget.png?style=banner2"/></a>
+</p>
+
+---
+
+<div align="center">
   <a href="https://github.com/YumaHisai/">
     <img height="350" src="https://i.imgur.com/OUXal4M.png">
   </a>
