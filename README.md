@@ -48,7 +48,7 @@
 </div>
 
 <p align="center">
-    <a href="[https://t.me/MyNameIsYuma](https://www.spigotmc.org/members/yumahisai.1577056/)">
+    <a href="https://www.spigotmc.org/members/yumahisai.1577056/">
         <img alt="SpigotMC" src="https://img.shields.io/badge/SpigotMC-20c961?style=for-the-badge&logo=java&logoColor=white" />
     </a>
     <a href="https://t.me/MyNameIsYuma">
