@@ -37,7 +37,7 @@
     <img alt="CSharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
-<p align="center">════════════════════════════════════════════════════════════════════════════════════</p>
+<p align="center">═══════════════════════════════════════════════════════════════════════════════════</p>
 
 
 
