@@ -76,10 +76,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/minehub-it">
     <h4>Minecraft-Italia</h3>
     <h4>Public Repository</h3>
     <h4>⬇</h3>
+  <a href="https://github.com/minehub-it">
     <img height="90" src="https://i.imgur.com/XJ8iprf.png">
   </a>
 </div>
