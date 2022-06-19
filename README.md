@@ -72,10 +72,8 @@
      <a href="https://discord.gg/xJutm6qrZT"><img src="https://discord.com/api/guilds/976514658775212042/widget.png?style=banner4"/></a>
 </p>
 
----
-
-<div align="center">  ⠀⠀⠀
-  <a href="https://github.com/minehub-it">⠀⠀⠀
+<div align="center">
+  <a href="https://github.com/minehub-it">
     <img height="140" src="https://i.imgur.com/XJ8iprf.png">
   </a>
 </div>
