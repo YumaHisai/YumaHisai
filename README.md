@@ -68,12 +68,18 @@
 
 ---
 
-<p align="center">
-     <a href="https://discord.gg/xJutm6qrZT"><img src="https://discord.com/api/guilds/976514658775212042/widget.png?style=banner4"/></a>
-</p>
+<div align="center">
+     <a href="https://discord.gg/xJutm6qrZT"><img src="https://discord.com/api/guilds/976514658775212042/widget.png?style=banner2"/></a>
+</div>
+<div align="center">
+     <a href="https://www.minecraft-italia.it/discord"><img src="https://discord.com/api/guilds/522487914303586315/widget.png?style=banner2"/></a>
+</div>
 
 <div align="center">
   <a href="https://github.com/minehub-it">
-    <img height="140" src="https://i.imgur.com/XJ8iprf.png">
+    <h4>Minecraft-Italia</h3>
+    <h4>Public Repository</h3>
+    <h4>⬇</h3>
+    <img height="90" src="https://i.imgur.com/XJ8iprf.png">
   </a>
 </div>
